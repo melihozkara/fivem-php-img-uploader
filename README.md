@@ -17,3 +17,8 @@ Here you can edit gcphone \ html \ static \ config \ config.json to redirect ima
 config.json> fileUploadService_Url
 
 Thank you.
+
+----------------
+
+Discord: https://discord.gg/yRRvYew
+Twitch: https://www.twitch.tv/zkra
