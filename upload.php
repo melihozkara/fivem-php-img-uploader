@@ -1,10 +1,10 @@
 <?php
 
-if(!file_exists(date("Y") . '/' . date("m"))) {
-    mkdir(date("Y") . '/' . date("m"));
+if(!is_dir(date("Y") . '/' . date("m"))) {
+    mkdir(date("Y") . '/' . date("m"), 0777, true);
 }
-if(!file_exists(date("Y") . '/' . date("m"). '/'. date("d"))) {
-    mkdir(date("Y") . '/' . date("m"). '/'. date("d"));
+if(!is_dir(date("Y") . '/' . date("m"). '/'. date("d"))) {
+    mkdir(date("Y") . '/' . date("m"). '/'. date("d"), 0777, true);
 }
 
 $dizin = date("Y") . '/' . date("m") . '/'. date("d") . '/';
