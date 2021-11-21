@@ -20,6 +20,6 @@ Thank you.
 
 ----------------
 
-Discord: https://discord.gg/yRRvYew
+Discord: https://discord.gg/zkra
 
 Twitch: https://www.twitch.tv/zkra
